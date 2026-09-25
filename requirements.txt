@@ -2,7 +2,7 @@ python-telegram-bot==21.1
 python-telegram-bot[job-queue]==21.1
 python-dotenv==1.0.1
 requests==2.31.0
-cryptography==41.0.7
+PySocks==1.7.1
 pytz==2024.1
 urllib3==2.1.0
-jdatetime==4.1.1 
+jdatetime==4.1.1
